@@ -3,6 +3,8 @@ body{
     font-size: 1.5em;
 }
 
+/* Header */
+
 .head-logo{
     height: 150px;
     background-color: rgb(53, 136, 209);
@@ -37,6 +39,8 @@ h1{
     color: #a39a9a;
     font-size: 20px;
 }
+
+/* Main */
 
 main{
     margin: 10px;
@@ -93,3 +97,24 @@ ul{
     display: inline-block;
 }
 
+/* Footer */
+
+footer{
+    margin: 7px;
+}
+
+.images-final-1{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 180px;
+    color: white;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.images-final-2{
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 180px;
+    color: white;
+    padding: 10px;
