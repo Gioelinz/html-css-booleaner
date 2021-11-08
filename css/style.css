@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    font-size: 1.5em;
+}
+
+.head-logo{
+    height: 150px;
+    background-color: rgb(53, 136, 209);
+    background-image: url(../img/pattern.png);
+}
+
+#booleaner-write{
+    width: 300px;
+    margin-top: 50px;
+}
+
+.title{
+   
+}
+
+h1{
+    font-size: 2.5em;
+    margin: 10px;
+}
+
+.greytext{
+    font-family:'Times New Roman', Times, serif;
+    color: #a39a9a;
+}
+#link-bool{
+    text-decoration: none;
+    color: royalblue;
+}
