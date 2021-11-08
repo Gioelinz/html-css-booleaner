@@ -14,8 +14,8 @@ body{
     margin-top: 50px;
 }
 
-.title{
-   
+.left-margin{
+   margin-left: 10px;
 }
 
 h1{
@@ -30,4 +30,18 @@ h1{
 #link-bool{
     text-decoration: none;
     color: royalblue;
+}
+
+#smaller{
+    font-family:'Times New Roman', Times, serif;
+    color: #a39a9a;
+    font-size: 20px;
+}
+
+#tim-photo{
+    margin-left: 10px;
+}
+
+figcaption{
+    
 }
