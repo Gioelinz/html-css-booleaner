@@ -38,10 +38,22 @@ h1{
     font-size: 20px;
 }
 
+main{
+    margin: 10px;
+}
+
 #tim-photo{
     margin-left: 10px;
 }
 
 figcaption{
-    
+    font-size: 20px;
+}
+
+.marked{
+    background-color: yellow;
+}
+
+ul{
+    margin-left: -20px;
 }
