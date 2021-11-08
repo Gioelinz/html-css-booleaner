@@ -57,3 +57,39 @@ figcaption{
 ul{
     margin-left: -20px;
 }
+
+.top-line{
+    background-color: rgb(30, 121, 196);
+    color: white;
+    font-weight: bold;
+    width: 100%;
+}
+
+.content-1{
+    width: 100%;
+    display: inline-block;
+    background-color: rgba(69, 201, 201, 0.5);
+}
+
+.content-2{
+    width: 100%;
+    display: inline-block;
+    background-color: white;
+}
+.left{
+    width: 25%;
+    display: inline-block;
+    margin-bottom: 25px;
+}
+
+.middle{
+    width: 40%;
+    display: inline-block;
+    margin: auto;
+}
+
+.right{
+    width: 30%;
+    display: inline-block;
+}
+
